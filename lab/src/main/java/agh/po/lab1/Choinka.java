@@ -4,12 +4,9 @@ import java.util.Scanner;
 
 public class Choinka {
 
-    public static void printChoinka() {
+    public static void printChoinka(int wysokosc) {
 
-        Scanner myObj = new Scanner(System.in);
-        System.out.println("Wysokość choinki");
 
-        int wysokosc = myObj.nextInt();
 
         for(int i=0; i < wysokosc; i++){
             for(int j = 0; j<=i;j++){
