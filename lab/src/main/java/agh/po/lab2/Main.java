@@ -1,4 +1,4 @@
-package main.java.agh.po.lab2;
+package agh.po.lab2;
 
 import agh.po.lab1.Choinka;
 
